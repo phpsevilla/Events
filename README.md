@@ -17,3 +17,6 @@
 
 ## PHP Sevilla 016
 [Conectando PHP Backend con App móvil (Swift+CocoaPods)](phpsevilla016.pdf)
+
+## PHP Sevilla 017
+[Conectando PHP Backend con Angular 2](phpsevilla017.pdf)
