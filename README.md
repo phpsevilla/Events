@@ -6,6 +6,9 @@
 ## PHP Sevilla 006
 [Manage code and dev teams](phpsevilla006.pdf)
 
+## PHP Sevilla 008
+[Symfony 3, ¿Qué hay de nuevo, viejo?](phpsevilla008.pdf)
+
 ## PHP Sevilla 009
 [Prestashop for developers](phpsevilla009.pdf)
 
