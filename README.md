@@ -29,3 +29,6 @@
 
 ## PHP Sevilla 019
 [Moodle](phpsevilla019.pdf)
+
+## PHP Sevilla 020
+[Refactoring](phpsevilla020.pdf)
