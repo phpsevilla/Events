@@ -35,3 +35,6 @@
 
 ## PHP Sevilla 021
 [Taller de Test Driven Development (TDD)](phpsevilla021.pdf)
+
+## PHP Sevilla 024
+[Securizando APIs con JWT en Symfony](phpsevilla024.pdf)
