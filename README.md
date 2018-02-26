@@ -38,3 +38,6 @@
 
 ## PHP Sevilla 024
 [Securizando APIs con JWT en Symfony](phpsevilla024.pdf)
+
+## PHP Sevilla 025
+[Workshop Symfony4 & Flex](phpsevilla025.pdf)
