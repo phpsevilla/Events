@@ -41,3 +41,6 @@
 
 ## PHP Sevilla 025
 [Workshop Symfony4 & Flex](phpsevilla025.pdf)
+
+## PHP Sevilla 026
+[Taller Docker para desarrolladores](phpsevilla026.pdf)
