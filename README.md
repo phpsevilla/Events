@@ -44,3 +44,6 @@
 
 ## PHP Sevilla 026
 [Taller Docker para desarrolladores](phpsevilla026.pdf)
+
+## PHP Sevilla 027
+[Mutant testing](phpsevilla027.pdf)
