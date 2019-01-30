@@ -47,3 +47,6 @@
 
 ## PHP Sevilla 027
 [Mutant testing](phpsevilla027.pdf)
+
+## PHP Sevilla 028
+[AWS Elastic Beanstalk](phpsevilla028.pdf)
