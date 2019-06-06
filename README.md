@@ -50,3 +50,6 @@
 
 ## PHP Sevilla 028
 [AWS Elastic Beanstalk](phpsevilla028.pdf)
+
+## PHP Sevilla 029
+[Introducción  a GraphQL](phpsevilla029.pdf)
