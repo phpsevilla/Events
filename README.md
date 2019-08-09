@@ -36,6 +36,9 @@
 ## PHP Sevilla 021
 [Taller de Test Driven Development (TDD)](phpsevilla021.pdf)
 
+## PHP Sevilla 022
+[PHP e IoT, El ¿futuro? de los wearables](phpsevilla022.pdf)
+
 ## PHP Sevilla 024
 [Securizando APIs con JWT en Symfony](phpsevilla024.pdf)
 
